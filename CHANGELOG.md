@@ -1,5 +1,11 @@
 # counterfact
 
+## 0.6.0
+
+### Minor Changes
+
+- 9161d80: Setup basic devcontainer.
+
 ## 0.5.0
 
 ### Minor Changes
